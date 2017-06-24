@@ -7,7 +7,7 @@ Simple task scheduling template to use with various ATmega328 based Arduinos.
 
 ## Getting Started
 
-This code is only a template to start from when task scheduling is needed. Simply add functions to the template code and add a function call inside the appropriate task scheduling period inside loop(). Different task periods need to be enabled/disabled according to need in the beginning of the code (the #define statements).
+This code is a simple template to start from when task scheduling is needed. Simply add functions to the template code and add a function call inside the appropriate task scheduling period inside loop(). Different task periods need to be enabled/disabled according to need in the beginning of the code (the #define statements).
 
 ### Prerequisites
 
